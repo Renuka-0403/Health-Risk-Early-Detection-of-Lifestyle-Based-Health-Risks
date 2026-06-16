@@ -22,13 +22,19 @@ This project analyzes obesity and lifestyle-related health risks using healthcar
 - Family History with Overweight
 - Obesity Level (NObeyesdad)
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+## Visualizations
+
+### Obesity Level Distribution
+![Obesity Level Distribution](visualizations/obesity_distribution.jpeg)
+
+### Physical Activity vs Obesity
+![Physical Activity vs Obesity](visualizations/physical_activity_vs_obesity.jpeg)
+
+### Technology Usage vs Obesity
+![Technology Usage vs Obesity](visualizations/technology_usage_vs_obesity.jpeg)
+
+### High-Calorie Food Consumption
+![High-Calorie Food Consumption](visualizations/high_calorie_food_consumption.jpeg)
 
 ## Key Findings
 - Lower physical activity is associated with higher obesity levels.
