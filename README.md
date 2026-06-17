@@ -34,7 +34,7 @@ This project analyzes obesity and lifestyle-related health risks using healthcar
 ![Water Intake vs Obesity](water_intake_vs_obesity.jpeg)
 
 ### Technology Usage vs Obesity
-![Technology Usage vs Obesity](/high_calorie_food_consumption.jpeg)
+![Technology Usage vs Obesity](technology_usage_vs_obesity.jpeg)
 
 ### High-Calorie Food Consumption
 ![High-Calorie Food Consumption](/high_calorie_food_consumption.jpeg)
