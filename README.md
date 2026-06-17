@@ -30,11 +30,17 @@ This project analyzes obesity and lifestyle-related health risks using healthcar
 ### Physical Activity vs Obesity
 ![Physical Activity vs Obesity](physical_activity_vs_obesity.jpeg)
 
+### Water Intake vs Obesity
+![Water Intake vs Obesity](water_intake_vs_obesity.jpeg)
+
 ### Technology Usage vs Obesity
-![Technology Usage vs Obesity](technology_usage_vs_obesity.jpeg)
+![Technology Usage vs Obesity](/high_calorie_food_consumption.jpeg)
 
 ### High-Calorie Food Consumption
 ![High-Calorie Food Consumption](/high_calorie_food_consumption.jpeg)
+
+### Family History vs Obesity
+![Family History vs Obesity](/family_history_vs_obesity.jpeg)
 
 ## Key Findings
 - Lower physical activity is associated with higher obesity levels.
